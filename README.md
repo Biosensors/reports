@@ -1,2 +1,2 @@
-# reports
-store the business report templates and sql queries
+# SQL Package Queries
+Save all the SAP queries
